@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ECG1</string>
+    <string name="Sample_Number">Sample Number</string>
+    <string name="ConnectString">Connect</string>
+    <string name="izeString">izé</string>
+    <string name="TextViewString">TextView</string>
+    <string name="StartString">Start</string>
+</resources>
